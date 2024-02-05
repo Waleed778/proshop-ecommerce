@@ -1,6 +1,5 @@
 const products = [
     {
-        _id:'1',
         name: 'Airpods Wireless Bluetooth Headphones',
         image: 'images/airpods.jpg',
         description: 'Bluetooth technology lets you connect',
@@ -12,7 +11,6 @@ const products = [
         numReviews: 12,
     },
     {
-        _id:'2',
         name: 'Iphone 11 Pro 256GB Memory',
         image: '/images/phone.jpg',
         description: 'Introducing the Iphone 11 pro. A Beautifull phone with high quality camera',
@@ -24,7 +22,6 @@ const products = [
         numReviews: 8,
     },
     {
-        _id:'3',
         name: 'Cannon EOS 800 DSLR Camra',
         image: '/images/camera.jpg',
         description: 'Characterized by versatile imaging specs, the canon EOS BOD CAMERA',
@@ -36,7 +33,6 @@ const products = [
         numReviews: 12,
     },
     {
-        _id:'4',
         name: 'Sony Playstation 4 Pro White Version',
         image: '/images/playstation.jpg',
         description: 'The ultimate home entertainment center starts with playstation.',
@@ -48,7 +44,6 @@ const products = [
         numReviews: 12,
     },
     {
-        _id:'5',
         name: 'Logitech G-series Gaming Mouse',
         image: '/images/mouse.jpg',
         description: 'Get a better handle on your game',
@@ -60,7 +55,6 @@ const products = [
         numReviews: 12,
     },
     {
-        _id:'6',
         name: 'Amazon Echo Dot 3rd Generator',
         image: '/images/alexa.jpg',
         description: 'Our Most populor smart  speaker with a fabric design.',
